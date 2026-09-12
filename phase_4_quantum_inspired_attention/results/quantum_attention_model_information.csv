@@ -1,0 +1,2 @@
+model,attention_mechanism,attention_formula,total_parameters,best_epoch,best_validation_accuracy,training_accuracy_at_best_epoch,training_loss_at_best_epoch,validation_loss_at_best_epoch
+Quantum-Inspired Attention,Quantum Probability Inspired,|tanh(e)|^2 / sum(|tanh(e)|^2),2856259,1,0.8744000196456909,0.8241778016090393,0.3908193111419678,0.29757845401763916

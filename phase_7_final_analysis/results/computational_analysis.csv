@@ -1,0 +1,8 @@
+Measure,Value
+Standard Parameters,2856259.0
+Quantum Parameters,2856259.0
+Parameter Difference,0.0
+Standard Inference Time (s),82.9934
+Quantum Inference Time (s),83.9096
+Inference Time Difference (s),0.9162000000000035
+Quantum Slowdown (%),1.1039432051223392

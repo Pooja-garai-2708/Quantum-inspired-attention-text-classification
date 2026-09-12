@@ -1,0 +1,7 @@
+dataset,label,class_name,count,percentage
+Train,0,negative,11317,50.297777777777775
+Train,1,positive,11183,49.70222222222222
+Validation,0,negative,1183,47.32
+Validation,1,positive,1317,52.68000000000001
+Test,0,negative,12500,50.0
+Test,1,positive,12500,50.0

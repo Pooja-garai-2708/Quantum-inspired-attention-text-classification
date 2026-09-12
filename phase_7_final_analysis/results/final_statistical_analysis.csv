@@ -1,0 +1,13 @@
+Measure,Value
+Standard Accuracy,0.8674
+Quantum Accuracy,0.8637
+Accuracy Difference,-0.0036999999999999256
+McNemar p-value,0.009969
+Statistically Significant,True
+Bootstrap 95% CI Lower,-0.0062
+Bootstrap 95% CI Upper,-0.0009
+Prediction Agreement,0.9501
+Both Correct,0.8406
+Both Wrong,0.1095
+Standard Correct / Quantum Wrong,670
+Standard Wrong / Quantum Correct,578

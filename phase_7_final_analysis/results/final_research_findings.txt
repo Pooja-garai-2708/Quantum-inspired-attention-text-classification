@@ -1,0 +1,30 @@
+1. Overall Performance
+Standard Attention achieved the highest accuracy (86.74%) and F1-score (87.10%), while Quantum-Inspired Attention achieved 86.37% accuracy and 86.56% F1-score.
+
+2. Precision
+Quantum-Inspired Attention achieved higher precision (85.40%) than Standard Attention (84.80%), indicating fewer false-positive predictions.
+
+3. Recall
+Standard Attention achieved higher recall (89.53%) than Quantum-Inspired Attention (87.74%).
+
+4. Error Profile
+Quantum-Inspired Attention reduced false positives from 2,006 to 1,875, but increased false negatives from 1,309 to 1,532.
+
+5. Statistical Significance
+McNemar's exact test produced a p-value of 0.009969, indicating a statistically significant difference between the paired predictions at the 0.05 significance level.
+
+6. Bootstrap Confidence Interval
+The 95% confidence interval for the accuracy difference was [-0.0062, -0.0009], remaining below zero and supporting the observed advantage of Standard Attention.
+
+7. Computational Cost
+Both models contain exactly 2,856,259 parameters. Quantum-Inspired Attention was approximately 0.92 seconds slower over the 25,000-sample test set.
+
+8. Prediction Agreement
+The two models agreed on 95.01% of test predictions, demonstrating substantial similarity while still producing different error patterns.
+
+9. Attention Behavior
+Both attention mechanisms identified sentiment-relevant words, but their attention distributions differed.
+
+10. Research Answer
+Under the current experimental configuration, Quantum-Inspired Attention did not outperform Standard Additive Attention for IMDB sentiment classification.
+

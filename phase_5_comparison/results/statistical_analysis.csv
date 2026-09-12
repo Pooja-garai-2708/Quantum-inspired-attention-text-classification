@@ -1,0 +1,2 @@
+Standard_correct_Quantum_wrong,Standard_wrong_Quantum_correct,Discordant_pairs,McNemar_p_value,Observed_Accuracy_Difference,Bootstrap_CI_Lower,Bootstrap_CI_Upper,Bootstrap_Confidence,Bootstrap_Samples,Prediction_Agreement,Both_Correct_Rate,Both_Wrong_Rate,Standard_Accuracy,Quantum_Accuracy,Accuracy_Difference,Significance
+670,578,1248,0.009969040165610758,-0.0036799999999999056,-0.00624100000000002,-0.0008799999999999919,0.95,2000,0.95008,0.8406,0.10948,0.8674,0.86372,-0.0036799999999999056,Statistically significant difference at alpha = 0.05

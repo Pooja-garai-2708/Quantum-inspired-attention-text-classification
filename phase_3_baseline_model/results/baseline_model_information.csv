@@ -1,0 +1,2 @@
+model,dataset,vocab_size,max_sequence_length,embedding_dimension,lstm_units,attention_dimension,dense_units,dropout_rate,recurrent_dropout_rate,batch_size,maximum_epochs,learning_rate,random_seed,total_parameters,best_epoch,best_validation_accuracy,training_accuracy_at_best_epoch
+Standard Attention Baseline,imdb,20000,250,128,128,64,64,0.3,0.2,64,2,0.001,42,2856259,1,0.876800000667572,0.825688898563385

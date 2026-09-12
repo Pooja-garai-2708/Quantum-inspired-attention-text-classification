@@ -1,0 +1,8 @@
+Metric,Mean Pooling
+Accuracy,0.86352
+Precision,0.8481458780263561
+Recall,0.8856
+F1 Score,0.8664683782091421
+Parameters,2839746.0
+Inference Time (seconds),60.248561299995345
+Average Time per Sample (ms),2.409942451999814

@@ -1,0 +1,4 @@
+dataset,samples,positive,negative,positive_percentage,negative_percentage,average_words,median_words
+Train,22500,11250,11250,50.0,50.0,238.2828888888889,178.0
+Validation,2500,1250,1250,50.0,50.0,242.5588,180.0
+Test,25000,12500,12500,50.0,50.0,230.80032,174.0

@@ -1,0 +1,7 @@
+Metric,Quantum_minus_Standard
+Accuracy Difference,-0.0036999999999999256
+Precision Difference,0.006000000000000005
+Recall Difference,-0.017900000000000027
+F1 Difference,-0.00539999999999996
+Inference Time Difference (seconds),0.9162000000000035
+Average Sample Time Difference (ms),0.03669999999999973

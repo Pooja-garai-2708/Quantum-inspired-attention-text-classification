@@ -1,0 +1,4 @@
+dataset,samples,min_tokens,max_tokens,mean_tokens,median_tokens
+Train,22500,10,2342,229.42017777777778,172.0
+Validation,2500,11,1052,233.4264,174.0
+Test,25000,6,2249,223.0704,169.0

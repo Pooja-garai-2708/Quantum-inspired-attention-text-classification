@@ -1,0 +1,8 @@
+Metric,Standard Attention,Quantum-Inspired Attention
+Accuracy,0.8674,0.8637
+Precision,0.848,0.854
+Recall,0.8953,0.8774
+F1 Score,0.871,0.8656
+Parameters,2856259.0,2856259.0
+Inference Time (seconds),82.9934,83.9096
+Average Time per Sample (ms),3.3197,3.3564
