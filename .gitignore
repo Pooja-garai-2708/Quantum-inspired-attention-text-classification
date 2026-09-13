@@ -1,0 +1,43 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Generated model artifacts
+artifacts/checkpoints/
+artifacts/models/
+
+# Generated results
+phase_3_baseline_model/results/
+phase_4_quantum_inspired_attention/results/
+phase_5_comparison/results/
+phase_6_attention_visualization/results/
+phase_7_final_analysis/ablation/results/
+phase_7_final_analysis/final_results/
+
+# Large processed datasets
+data/processed/*.csv
+data/processed/*.npz
+
+# Raw datasets
+data/raw/
+
+# TensorFlow / Keras
+*.h5
+*.keras
+
+# OS files
+.DS_Store
+Thumbs.db
